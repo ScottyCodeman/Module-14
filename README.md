@@ -1,5 +1,5 @@
 # Module-14
-
+### By: Scott Speers
 ## Objective: To Create an Algorithmic trading bot
 ### step 1: I imported the dataset and added a column for Actual returns using `pct_change` 
 
